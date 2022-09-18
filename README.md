@@ -1,6 +1,6 @@
 # Beats to the Step: Hack the North 2022 Submission
 
-Lucia Kim, Julie Tang
+Jason Chen, Lucia Kim, Julie Tang
 
 
 ## About the project:
