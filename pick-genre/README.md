@@ -1,4 +1,9 @@
-# genre
+# Genre Interface Prototype.
+
+The second interface after the user logs in - asking them for a general direction of the music they choose to listen to. Photo included below for reference.
+
+<img width="485" alt="Screen Shot 2022-09-18 at 4 05 52 AM" src="https://user-images.githubusercontent.com/84947592/190892248-0f16aed5-a618-4e56-ac0f-d236b87a8358.png">
+
 
 A new Flutter project.
 
