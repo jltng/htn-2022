@@ -1,4 +1,4 @@
-# Beat to the Step: Hack the North 2022 Submission
+# Beats to the Step: Hack the North 2022 Submission
 
 Jason Chen, Lucia Kim, Julie Tang
 
