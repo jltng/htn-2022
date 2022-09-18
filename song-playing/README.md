@@ -1,6 +1,6 @@
-# htn
+# Song Cover Prototype
 
-A new Flutter project.
+Photo included for reference.
 
 ## Getting Started
 
