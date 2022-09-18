@@ -1,4 +1,13 @@
-# activity
+# Activity Interface Prototype. 
+
+The first interface to show up after the user signs in. Narrows down the scope of music based on BPM.
+
+<br>
+
+Photo included below for reference.
+
+
+<img width="485" alt="Screen Shot 2022-09-18 at 4 05 52 AM" src="https://user-images.githubusercontent.com/84947592/190892802-edaaf982-afff-4da9-963e-354d213f8913.png">
 
 A new Flutter project.
 
